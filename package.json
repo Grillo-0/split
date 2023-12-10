@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@ffmpeg/core": "^0.12.4",
+    "@ffmpeg/ffmpeg": "^0.12.7",
+    "@ffmpeg/util": "^0.12.1",
+    "file-saver": "^2.0.5",
+    "jszip": "^3.10.1"
+  },
+  "name": "split",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "grillo",
+  "license": "MIT",
+  "description": ""
+}
